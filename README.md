@@ -23,8 +23,8 @@
 
 ## 📸 Captura de tela
 
-![Captura do Conversor de Texto para IPA](https://your-screenshot-url.com)  
-<sup>*(Opcional: incluir uma captura real quando disponível)*</sup>
+![Captura do Conversor de Texto para IPA](assets/screenshot_01.jpg)  
+![Captura do Conversor de Texto para IPA](assets/screenshot_02.jpg)
 
 ---
 
